@@ -1,0 +1,8 @@
+employee_id,employee_name,designation,department,salary_head,salary
+EMP001,Rajesh Kumar,Software Engineer,IT,BASIC,30000
+EMP001,Rajesh Kumar,Software Engineer,IT,HRA,10000
+EMP001,Rajesh Kumar,Software Engineer,IT,DA,5000
+EMP002,Anita Sharma,HR Manager,HR,BASIC,35000
+EMP002,Anita Sharma,HR Manager,HR,DA,5000
+EMP003,Suresh Patel,Accountant,Finance,BASIC,28000
+EMP003,Suresh Patel,Accountant,Finance,HRA,8000

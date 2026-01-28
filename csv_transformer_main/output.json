@@ -1,0 +1,38 @@
+{
+  "EMPLOYEES": {
+    "EMPLOYEE": [
+      {
+        "NAME": "Rajesh Kumar",
+        "DEPARTMENTNAME": "IT",
+        "SALARY": [
+          {
+            "TYPE": "BASIC",
+            "AMOUNT": "30000"
+          },
+          {
+            "TYPE": "HRA",
+            "AMOUNT": "10000"
+          },
+          {
+            "TYPE": "DA",
+            "AMOUNT": "5000"
+          }
+        ]
+      },
+      {
+        "NAME": "Anita Sharma",
+        "DEPARTMENTNAME": "HR",
+        "SALARY": [
+          {
+            "TYPE": "BASIC",
+            "AMOUNT": "35000"
+          },
+          {
+            "TYPE": "DA",
+            "AMOUNT": "5000"
+          }
+        ]
+      }
+    ]
+  }
+}
